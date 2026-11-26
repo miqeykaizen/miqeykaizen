@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey there, I'm Miqey 👋</h1>
-<h3 align="center">Mechanical Engineering Student | Aspiring Engineer | Tech Enthusiast</h3>
+<h3 align="center">Mechanical Engineering Major | Aspiring Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Mechanical+Engineering+Student;Exploring+Automation+%26+Robotics;Building+Smart+Engineering+Solutions;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Mechanical+Engineering+Major;Exploring+Automation+%26+Robotics;Building+Smart+Engineering+Solutions;Learning+Something+New+Every+Day" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Diploma in Mechanical Engineering student at Politeknik Seberang Perai.
+- 🎓 Diploma in Mechanical Engineering student at.
 - ⚙️ Passionate about mechanical design, manufacturing, and engineering innovation.
 - 💻 Interested in programming, embedded systems, and computer vision.
 - 🤖 Developing a Smart Sorting Bin with AI-based waste detection.
