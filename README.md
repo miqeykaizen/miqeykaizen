@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Diploma in Mechanical Engineering student at.
+- 🎓 Diploma in Mechanical Engineering student.
 - ⚙️ Passionate about mechanical design, manufacturing, and engineering innovation.
 - 💻 Interested in programming, embedded systems, and computer vision.
 - 🤖 Developing a Smart Sorting Bin with AI-based waste detection.
